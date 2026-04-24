@@ -1,7 +1,7 @@
 # Desafio-backend-frameworks-Nassau
-Feito para testar minhas habilidades no Backend
+Atividade feita para testar minhas habilidades no Backend
 
-#Aluno: Lucas Rodrigo / 01809313
+Aluno: Lucas Rodrigo / 01809313
 
 ## Comparação entre Frameworks: Uma análise comparativa entre o Node.js/Express e o Java/Spring Boot
 R-      Entre os 2, o Node.js/express se trata de uma framework, servindo mais para startups, já que o codigo dele se trata de algo mais simples e flexivel, contudo acaba sendo fraca para projetos gigantescos. Contudo o Java/Spring Boot acaba cumprindo esse requisito de gerenciar grandes projetos, por se tratar num codigo mais robusto, mas a sua curva de aprendizado acaba sendo mais intença, servindo mais para aqueles que tem mais habilidades.
