@@ -26,7 +26,7 @@ Ele so vai começar a funcionar quando o cliente for fazer a ação, no caso faz
 Cliente realiza o pedido:
 Controles > service > Models
 
-posteriormente realiza o caminho inverso para responder o cliente
+posteriormente realiza o caminho inverso para responder o cliente:
 Models > Service > Controles
 
 
